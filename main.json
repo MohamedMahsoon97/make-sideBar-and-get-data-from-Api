@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 9939,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kyle Hyatt",
+            "title": "Here's how Tesla's new Auto Shift works",
+            "description": "It's not quite as close to magic as Elon would have you believe.",
+            "url": "https://www.cnet.com/roadshow/news/tesla-auto-shift-how-it-works/",
+            "urlToImage": "https://www.cnet.com/a/img/P08u5ECVwDUE4hxplUX6Ex9HWII=/1200x630/2021/06/11/1dc729b9-2e28-4955-a5ba-5e5384fdac20/model-s-plaid-ogi.jpg",
+            "publishedAt": "2021-06-11T23:16:23Z",
+            "content": "The Model S will shift itself and this man is excited about it.\r\nTesla\r\nTesla showed off a new feature of its refreshed Model S called \"Auto Shift\" during its Plaid event on Thursday, and CEO Elon Mu… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stuff.co.nz"
+            },
+            "author": "NILE BIJOUX",
+            "title": "Quick Charge: No more Plaid+, more EVs for NZ and Ariya delayed",
+            "description": "Things move fast in the world of EVs - here are five of our favourite stories from the past week.",
+            "url": "https://www.stuff.co.nz/motoring/evs/125413609/quick-charge-no-more-plaid-more-evs-for-nz-and-ariya-delayed",
+            "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/t/0/w/c/image.related.StuffLandscapeSixteenByNine.1420x800.22o1rd.png/1623451383547.jpg",
+            "publishedAt": "2021-06-11T22:43:02Z",
+            "content": "What does the Climate Change Commission's roadmap mean for our lives?\r\n The Climate Change Commission laid out its final advice for the Government to reduce New Zealands carbon emissions. What does t… [+5448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Guest Contributor",
+            "title": "Could Tesla Really Have Over One Million Cybertruck Pre-Orders?",
+            "description": "It has been over a year since the Cybertruck was formally unveiled, and it still remains ",
+            "url": "https://cleantechnica.com/2021/06/11/could-tesla-really-have-over-one-million-cybertruck-pre-orders/",
+            "urlToImage": "https://cleantechnica.com/files/2021/05/IMG_0191-scaled-e1620490649594.jpg",
+            "publishedAt": "2021-06-11T22:39:15Z",
+            "content": "It has been over a year since the Cybertruck was formally unveiled, and it still remains one of the most controversial production vehicles ever to hit the market. Its sci-fi, futuristic (albeit apoca… [+3190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Jason Aycock",
+            "title": "U.S. China 'tech cold war' presents bigger risks to some, Wedbush says",
+            "description": "The technology \"cold war\" between the United States and China is headed to a new phase",
+            "url": "https://seekingalpha.com/news/3705819-us-china-tech-cold-war-presents-bigger-risks-to-some-wedbush-says",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2021-06-11T22:18:49Z",
+            "content": "<ul> <li>The technology \"cold war\" between the United States and China is headed to a new phase, Wedbush suggests - with clear implications for a couple of large companies in particular, and the week… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "eWeek"
+            },
+            "author": "Rob Enderle",
+            "title": "AMD Advantage Builds On The Intel Evo Trend",
+            "description": "Intel Evo, as a program, was and is inspired in that it has broad applicability to the need to better ",
+            "url": "https://www.eweek.com/news/amd-advantage-builds-on-the-intel-evo-trend/",
+            "urlToImage": "https://www.eweek.com/wp-content/uploads/2021/04/globe-network.jpeg",
+            "publishedAt": "2021-06-11T22:17:10Z",
+            "content": "Intel Evo, as a program, was and is inspired in that it has broad applicability to the need to better assure an Apple-like  "
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Gina Martinez",
+            "title": "'Doge' meme breaks NFT record after it sells for $4 million",
+            "description": "The 'Doge' meme, which features an image of an excited Shiba Inu named 'Kaboso' ",
+            "url": "https://www.dailymail.co.uk/news/article-9677985/Doge-meme-breaks-NFT-record-sells-4-million.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/06/11/22/44120791-0-image-a-29_1623445343982.jpg",
+            "publishedAt": "2021-06-11T21:35:53Z",
+            "content": "The 'Doge' meme, which features an image of a Shiba Inu with an odd smirk, broke the record for the most expensive nonfungible token (NFT) when it sold for $4 million.\r\n'Doge,' widely considered one … [+5273 chars]"
+        }
+    ]
+}

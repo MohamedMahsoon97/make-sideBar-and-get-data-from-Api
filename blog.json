@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 3014,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/karissa-bell",
+            "title": "House introduces five antitrust bills targeting Apple, Google, Facebook and Amazon",
+            "description": "House lawmakers have introduced five new bills that would place significant limits on major tech companies, including Apple, Google, Facebook and Amazon..",
+            "url": "https://www.engadget.com/house-five-antitrust-bills-apple-google-facebook-amazon-205114170.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/5e26e2f0-ba32-11eb-97fd-73ceab2d75aa",
+            "publishedAt": "2021-06-11T20:51:14Z",
+            "content": "Lawmakers in the House have introduced five new bills\r\n that would place significant limits on major tech companies, including Apple, Google, Facebook and Amazon.The proposed legislation is part of a… [+1092 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/valentina-palladino",
+            "title": "This week's best deals: Early Prime Day sales discount Eero routers and Blink cameras",
+            "description": "This week's best tech deals include early Prime Day deals on Eero routers and Blink security cameras, the Roku Ultra for $69 and $200 off Anova's Precision Cooker Pro..",
+            "url": "https://www.engadget.com/weekly-tech-deals-early-prime-day-deals-eero-routers-blink-cameras-roku-ultra-anova-precision-cooker-pro-164525856.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/444823e0-cab2-11eb-bf8b-af7969df0c42",
+            "publishedAt": "2021-06-11T16:45:25Z",
+            "content": "Early Amazon Prime Day deals began this week and they added to the other tech deals we saw across the web. The first round of Prime Day promos included sales on the Eero 6 WiFi system and Blink secur… [+5537 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "You're Probably Not Using the Web's Best Browser",
+            "description": "With endless new customization options, like new email clients and a feed reader, Vivaldi 4.0 just got better.",
+            "url": "https://www.wired.com/story/vivaldi-4-2021/",
+            "urlToImage": "https://media.wired.com/photos/60c26fa7eaa210b2096c9423/191:100/w_1280,c_limit/Gear-Vivaldi-Review-featured.jpg",
+            "publishedAt": "2021-06-11T12:00:00Z",
+            "content": "Remember when web browsers were useful tools? Remember when you could follow sites you liked, check your email, and see your calendar, all without leaving the browser? Or, I should say, remember when… [+2321 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "MacOS Monterey Is When Apple Starts Leaving Intel Macs Behind",
+            "description": "For the first time, some of Apple's own features will only be available on computers with the company's homegrown silicon.",
+            "url": "https://www.wired.com/story/apple-m1-intel-macos-monterey-features/",
+            "urlToImage": "https://media.wired.com/photos/60c2a0ed15905be3a3bdcd50/191:100/w_1280,c_limit/Gear-MacOS-Monterey-Intel.jpg",
+            "publishedAt": "2021-06-11T11:00:00Z",
+            "content": "This week, Apple revealed macOS Monterey, an update to its desktop operating system that will roll out this fall. It comes with a whole host of new features that the company highlighted in its keynot… [+3247 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Marino",
+            "title": "Vergecast WWDC: iOS 15, spatial audio, macOS Monterey, and more",
+            "description": "The Vergecast crew discusses all of the announcements from Apple’s WWDC this week — from a preview of iOS 15 to spatial audio on Apple Music to a new drag-and-drop feature between the Mac and the iPad.",
+            "url": "https://www.theverge.com/2021/6/11/22529488/vergecast-podcast-454-wwdc-2021-ios15-macos",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/TCvlLon2YcydfCR6KJC59Ofx0tQ=/0x40:2000x1087/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22652598/lcimg_71a6f738_86b9_4aed_a194_067e8224a6d4.jpg",
+            "publishedAt": "2021-06-11T14:43:47Z",
+            "content": "Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest sto… [+2781 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ashley Carman",
+            "title": "The podcasting hype house from hell",
+            "description": "Himalaya launched in the US in 2019 and said it had $100 million in funding. But The Verge’s reporting finds that funding was allegedly exaggerated while the company also faces a lawsuit from ex-HiStudios employees over alleged wrongful termination.",
+            "url": "https://www.theverge.com/22526502/himalaya-histudios-notorious-llc-podcast-audio-hype-house",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/khpMaRIWR27YbOH5TcGnfKuCeYw=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22650286/VRG_ILLO_4414_Podcast_HypeHouse_s.jpg",
+            "publishedAt": "2021-06-11T11:00:00Z",
+            "content": "How China’s biggest audio platform funded one man’s frat boy dreams Imagine you’re a podcaster who’s been recording your show at CBS Radio, a venerable, if not unglamorous spot. One day, you’re inste… [+38223 chars]"
+        }
+    ]
+}
